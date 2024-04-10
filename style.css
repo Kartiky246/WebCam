@@ -144,3 +144,6 @@ video {
 .gallery:hover {
     cursor: pointer;
 }
+.video-cont{
+    transform: scaleX(-1)
+}
